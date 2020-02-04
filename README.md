@@ -1,6 +1,7 @@
 # Microservice-portfolio
 
-App for generating programmer portfolio using Github and Joke-official API.
+App is generating programmer portfolio using Github and Joke-official API.
+
 
 ## **Endpoints:**
 
@@ -23,8 +24,8 @@ Returns json data joke.
 
 	Code: 200\
 	Content: {\
-		"setup":"How many kids with ADD does it take to change a lightbulb?",  
-		"punchline":"Let's go ride bikes!"\
+		    "setup":"How many kids with ADD does it take to change a lightbulb?",  
+		    "punchline":"Let's go ride bikes!"\
 	}
 
 ### Github
