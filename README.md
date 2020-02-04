@@ -29,7 +29,7 @@ Returns json data joke.
 
 ### Github
 
-Returns json data about a single user.
+Returns json data about user projects.
 
 - **URL**
 
