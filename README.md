@@ -48,7 +48,7 @@ Returns json data about user projects.
 - **Success Response:**
 
 	Code: 200
-	Content: 
+	Content: [{"name":"Amilosz.github.io","stargazers_count":"0","html_url":"https://github.com/Amilosz/Amilosz.github.io","language":"HTML"},{"name":"Design-Patterns","stargazers_count":"1","html_url":"https://github.com/Amilosz/Design-Patterns","language":"Java"},{"name":"JavaEE","stargazers_count":"1","html_url":"https://github.com/Amilosz/JavaEE","language":"Java"},{"name":"micro-template","stargazers_count":"0","html_url":"https://github.com/Amilosz/micro-template","language":"Python"},{"name":"Microservice-portfolio","stargazers_count":"1","html_url":"https://github.com/Amilosz/Microservice-portfolio","language":"Java"},{"name":"MyWallet","stargazers_count":"1","html_url":"https://github.com/Amilosz/MyWallet","language":"Java"},{"name":"Portfolio","stargazers_count":"1","html_url":"https://github.com/Amilosz/Portfolio","language":"JavaScript"},{"name":"springStart","stargazers_count":"1","html_url":"https://github.com/Amilosz/springStart","language":"Java"}]
 
 
 
