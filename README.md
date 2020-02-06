@@ -69,4 +69,8 @@ Returns json data about user projects.
 	}]
 
 
+### Because the CORS restriction does not allow you to display the page properly, you must download the CORS plug-in before starting the application 
+### In example: CORS everywhere 
+![enter image description here](https://i.ibb.co/8scNXPW/Przechwytywanie.png)
+
 
